@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kiran Prakash Patil
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning python Ml
 - https://www.linkedin.com/in/kiran-patil-98276320b/
 
 <!---
